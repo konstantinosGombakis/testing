@@ -1,0 +1,9 @@
+{
+    "dataModel.Device": "https://raw.githubusercontent.com/smart-data-models/dataModel.Device/master/context.jsonld",
+    "dataModel.Environment": "https://raw.githubusercontent.com/smart-data-models/dataModel.Environment/master/context.jsonld",
+    "dataModel.Energy" : "https://raw.githubusercontent.com/smart-data-models/dataModel.Energy/master/context.jsonld",
+    "dataModel.EnergyCIM": "https://raw.githubusercontent.com/smart-data-models/dataModel.EnergyCIM/master/context.jsonld",
+    "dataModel.OCF": "https://raw.githubusercontent.com/smart-data-models/dataModel.OCF/master/context.jsonld",
+    "dataModel.Weather": "https://raw.githubusercontent.com/smart-data-models/dataModel.Weather/master/context.jsonld",
+    "dataModel.WaterDistribution":"https://raw.githubusercontent.com/smart-data-models/dataModel.WaterDistribution/master/context.jsonld"
+}
